@@ -7,13 +7,37 @@
 
 # Site settings
 title: Hipster coding blog
+tagline: Мотивирующий блог
+description: >
 email: polkovnikov13@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Блог, мотивирующий меня что-то делать
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dp9v.github.io" # the base hostname & protocol for your site
-twitter_username: DemAn_13
-github_username:  dp9v
+url: "https://dp9v.github.io" # the base hostname & protocol for your site
+
+
+github:
+  url:               #"https://dp9v.github.io"
+
+
+author:
+  name:              "Polkovnikov Dmitriy"
+  email:             "Polkovnikov13@gmail.com"
+  twitter:           "DemAn_13"
+  github:            "dp9v"
+  facebook:          "polkovnikov13"
+
+navigation:
+- title: О блоге
+  url: /about
+- title: Архив
+  url: /writing
+- title: Контакты
+  url: /contact
+
+paginate:            10
+disqus:              #"your-disqus"
 
 # Build settings
-markdown: kramdown
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
