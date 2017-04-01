@@ -3,6 +3,8 @@ layout: post
 title:  "С первым апрля!"
 date:   2017-04-01 16:44:14 +0800
 categories: Общее
+author: Polkovnikov Dmitriy
+description: "Первый пост блога. как, зачем и для кого - все в этом посте"
 ---
 
 Добрый день!
