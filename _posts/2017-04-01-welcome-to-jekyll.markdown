@@ -1,24 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "С первым апрля!"
 date:   2017-04-01 16:44:14 +0800
-categories: jekyll update
+categories: Общее
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Добрый день!
+Сегодня, первого апреля у меня наконец-то появилось время, для развертывания собственного блога.
+Вроде это не сложно, но если уж решил развернуть его на github.pages с использованием не самого очевидного движка (Jekyll), то это становится не самой тривиальной задачей.
 
-Jekyll also offers powerful support for code snippets:
+Тут я буду публиковать свои конспекты прочитанных мной книг, статей, мануалов и др. Возможно будут переводы и ещё какая-нибудь бессмысленная информация, полезная скорее для меня, чем для окружающих
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+В данный момент используется встроенный в Jekyll HTML-шаблон. В будущем надо будет его поменять.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
