@@ -7,7 +7,7 @@
 
 # Site settings
 title: Hipster coding blog
-tagline: Мотивирующий блог
+tagline: Самоотивирующий блог
 description: >
 email: polkovnikov13@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog

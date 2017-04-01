@@ -2,4 +2,6 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing.
+
+Данный блог был разработан мной just for fun для персонального конспектирования прочитанной литературы и статей
+Блог разработан с использованием Jekyll
